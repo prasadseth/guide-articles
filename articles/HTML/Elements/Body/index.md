@@ -13,4 +13,18 @@ This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/g
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
+Every HTML page has a body element.
+The <body> is used for defining the main content of HTML document.
+The <body> element contains all the contents of an HTML document, such as text,images,tables,etc.
+
+Example : 
+
+<html>
+  <head>
+    <title>Document title</title>
+  </head>
+  <body>
+    <h1>This is the heading</h1>
+  </body>
+</html>
 
